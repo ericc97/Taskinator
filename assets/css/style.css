@@ -80,12 +80,13 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 25px auto;
+  margin: 0px auto;
   width: 95%;
 }
 
 .task-list-wrapper {
   flex: 1;
+  flex:wrap;
   margin: 0 20px 20px;
 }
 
@@ -108,7 +109,7 @@ footer {
   padding: 15px 15px;
   border: 2px solid var(--grey);
   background: var(--tertiary);
-  border-radius: 25px;
+  border-radius: 12px;
   margin-bottom: 20px;
 }
 
