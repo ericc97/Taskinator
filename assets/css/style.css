@@ -80,7 +80,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 0px auto;
+  margin: 0px auto 25px auto;
   width: 95%;
 }
 
